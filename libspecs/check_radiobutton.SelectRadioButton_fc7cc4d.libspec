@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="check_radiobutton.SelectRadioButton" type="LIBRARY" format="ROBOT" scope="TEST" namedargs="true" generated="2021-03-30T09:05:21Z" specversion="2" source="C:\Users\RAlexandru\Documents\Proiecte Eclipse\TestRadioButton\check_radiobutton.py" lineno="8">
+<version />
+<scope>test case</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``check_radiobutton.SelectRadioButton``.</doc>
+<kw name="Retrieve Radiobuttons" lineno="14">
+<arguments>
+</arguments>
+<doc />
+</kw>
+<kw name="Select Button" lineno="30">
+<arguments>
+<arg>selection</arg>
+</arguments>
+<doc />
+</kw>
+</keywordspec>
